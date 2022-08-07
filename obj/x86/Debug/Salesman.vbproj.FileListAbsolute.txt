@@ -1,0 +1,17 @@
+E:\Aplikasi Salesman\Salesman\bin\Debug\Salesman.exe
+E:\Aplikasi Salesman\Salesman\bin\Debug\Salesman.pdb
+E:\Aplikasi Salesman\Salesman\bin\Debug\Salesman.xml
+E:\Aplikasi Salesman\Salesman\bin\Debug\Oracle.DataAccess.dll
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.Frminputsalesman.resources
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.Resources.resources
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.vbproj.GenerateResource.Cache
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.exe
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.xml
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.pdb
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.vbprojResolveAssemblyReference.cache
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.frmdaftarsales.resources
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.frmlistsales.resources
+E:\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.frmmenu.resources
+D:\salesman2\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.exe
+D:\salesman2\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.xml
+D:\salesman2\Aplikasi Salesman\Salesman\obj\x86\Debug\Salesman.pdb
